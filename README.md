@@ -1,0 +1,2 @@
+🚀 JavaScript Learning Resources
+Welcome! This repository is a curated collection of notes, code snippets, and essential resources dedicated to mastering JavaScript. Whether you are starting with the basics or diving into advanced asynchronous patterns, this guide aims to streamline your learning journey.
