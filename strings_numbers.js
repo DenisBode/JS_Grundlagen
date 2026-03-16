@@ -34,4 +34,7 @@ console.log(myFithCombi);
 let mySixtCombi = '5.5' - 3.1; // -> 2,4
 console.log(mySixtCombi);
 
+let myHigh = 2 ** 20; // -> Quadrat -> 1048576
+console.log(myHigh);
+
 
