@@ -22,3 +22,8 @@ function countCaracters(text) {
 console.log(countCaracters("bAnanE"));
 
 //test 4
+
+function formatToCurrency(text) {
+    return Number(text.replace(",", ".")).toFixed(2) + " €";
+}
+console.log(formatToCurrency("0,5"));
