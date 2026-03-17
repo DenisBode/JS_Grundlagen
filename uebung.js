@@ -12,7 +12,13 @@ console.log(fullName("Max", "Mustermann"));
 function capitalizeLetters(text) {
     return text.toUpperCase();
 }
-console.log(capitalizeLetters("huch das wird ja groß zurückgegeben"));
+console.log(capitalizeLetters("bAnanE"));
 
 //test 3
 
+function countCaracters(text) {
+    return text.length;
+}
+console.log(countCaracters("bAnanE"));
+
+//test 4
