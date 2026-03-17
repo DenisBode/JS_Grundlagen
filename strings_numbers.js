@@ -38,3 +38,11 @@ let myHigh = 2 ** 20; // -> Quadrat -> 1048576
 console.log(myHigh);
 
 
+
+let myTeststring = "Hallo World "
+
+myTeststring = myTeststring.trim();
+console.log(myTeststring.length);
+
+
+
